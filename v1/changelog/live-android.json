@@ -1,0 +1,19 @@
+{
+  "product": "argentum-nextgen",
+  "channel": "live-android",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "date": "2026-07-17",
+      "title": "Primera beta mobile",
+      "entries": [
+        {
+          "category": "nuevo",
+          "text": "Primera version Android: UI tactil, autoupdate integrado y mundo 3D completo."
+        }
+      ],
+      "download_bytes": 0,
+      "files_changed": 0
+    }
+  ]
+}
