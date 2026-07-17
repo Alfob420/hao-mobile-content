@@ -3,6 +3,27 @@
   "channel": "live-android",
   "releases": [
     {
+      "version": "0.1.3",
+      "date": "2026-07-17",
+      "title": "Iconos de items y ajustes moviles",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Vuelven los iconos 3D de items del inventario (thumbs pre-horneados)."
+        },
+        {
+          "category": "interfaz",
+          "text": "Botones Equipar/Usar y Tirar en el panel de inventario; boton Navegar con barca; chat movil con boton para escribir; consola arrastrable."
+        },
+        {
+          "category": "rendimiento",
+          "text": "Auto-tuning movil v1: preset acorde al telefono + escala de render 60-70%."
+        }
+      ],
+      "download_bytes": 19143980,
+      "files_changed": 1
+    },
+    {
       "version": "0.1.2",
       "date": "2026-07-17",
       "title": "Fix texturas de packs (bien)",
