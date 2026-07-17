@@ -3,6 +3,23 @@
   "channel": "live-android",
   "releases": [
     {
+      "version": "0.1.4",
+      "date": "2026-07-17",
+      "title": "Iconos de items pre-horneados",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Iconos 3D de items visibles en el celu (pre-horneados desde desktop)."
+        },
+        {
+          "category": "interfaz",
+          "text": "Seleccion de item con recuadro dorado; botones de pocion roja/azul y arco; indicador de punteria; botonera superior rectangular; consola alineada."
+        }
+      ],
+      "download_bytes": 41228830,
+      "files_changed": 1
+    },
+    {
       "version": "0.1.3",
       "date": "2026-07-17",
       "title": "Iconos de items y ajustes moviles",
