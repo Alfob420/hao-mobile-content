@@ -3,6 +3,32 @@
   "channel": "live-android",
   "releases": [
     {
+      "version": "0.1.2",
+      "date": "2026-07-17",
+      "title": "Fix texturas de packs (bien)",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Restauradas las texturas externas de los packs: el mundo cargaba con modelos faltantes."
+        }
+      ],
+      "download_bytes": 129543591,
+      "files_changed": 1
+    },
+    {
+      "version": "0.1.1",
+      "date": "2026-07-17",
+      "title": "Fix texturas de packs",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Restauradas texturas externas de packs (citymix y otros): el mundo cargaba con modelos faltantes."
+        }
+      ],
+      "download_bytes": 40668144,
+      "files_changed": 1
+    },
+    {
       "version": "0.1.0",
       "date": "2026-07-17",
       "title": "Primera beta mobile",
