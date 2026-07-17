@@ -3,6 +3,19 @@
   "channel": "live-android",
   "releases": [
     {
+      "version": "0.1.5",
+      "date": "2026-07-17",
+      "title": "Arboles, iconos y modelos reparados",
+      "entries": [
+        {
+          "category": "correccion",
+          "text": "Reimport completo con renderer real: vuelven arboles, iconos de items en vivo y modelos que faltaban en el celu."
+        }
+      ],
+      "download_bytes": 8836821,
+      "files_changed": 1
+    },
+    {
       "version": "0.1.4",
       "date": "2026-07-17",
       "title": "Iconos de items pre-horneados",
